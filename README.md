@@ -1,4 +1,8 @@
 # 💫 About Me:
+
+<h1 align="center">Hi there, I'm Abhishek</h1>
+
+
 🔭 I’m currently working on **ChikitsaPlus**<br><br> 🌱 I’m currently learning **Typescript , NextJs**<br><br> 💬 Ask me about **MERN**<br><br> 📫 How to reach me **abhishek.solanki1110@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekSolanki01&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekSolanki01" /> </p>
