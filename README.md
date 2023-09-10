@@ -28,4 +28,4 @@
 
 <!-- ### 🐍 Watch Snake eating my contribution -->
 
-![snake.svg](https://github.com/abhisheksolanki01/abhisheksolanki01/blob/output/github-contribution-grid-snake.svg)
+![snake.svg](https://github.com/abhishekSolanki01/abhishekSolanki01/blob/main/snake.svg)
