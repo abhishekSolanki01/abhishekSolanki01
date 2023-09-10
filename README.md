@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on **ChikitsaPlus**<br><br> 🌱 I’m currently learning **Typescript , NextJs**<br><br> 💬 Ask me about **MERN**<br><br> 📫 How to reach me **abhishek.solanki1110@gmail.com**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekSolanki01&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekSolanki01" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-solanki-1110) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Abhishe50830851) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jessypinkman5737) 
