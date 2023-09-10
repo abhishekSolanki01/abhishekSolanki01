@@ -1,6 +1,6 @@
-# 💫 About Me:
+<!-- #  About Me: -->
 
-<h1 align="center">Hi there, I'm Abhishek</h1>
+<h1 align="center">💫 Hi there, I'm Abhishek</h1>
 
 
 🔭 I’m currently working on **ChikitsaPlus**<br><br> 🌱 I’m currently learning **Typescript , NextJs**<br><br> 💬 Ask me about **MERN**<br><br> 📫 How to reach me **abhishek.solanki1110@gmail.com**
