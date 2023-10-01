@@ -33,4 +33,4 @@
 
 <!-- ### 🐍 Watch Snake eating my contribution -->
 
-![snake.svg](https://github.com/abhishekSolanki01/abhishekSolanki01/blob/main/snake.svg)
+<!-- ![snake.svg](https://github.com/abhishekSolanki01/abhishekSolanki01/blob/main/snake.svg) -->
